@@ -1,0 +1,19 @@
+{
+    "list": [
+        {
+            "id": 101,
+            "name": "表单1",
+            "code": "form_1",
+            "category": "c1",
+            "status": 1
+        },
+        {
+            "id": 102,
+            "name": "表单2",
+            "code": "form_2",
+            "category": "c2",
+            "status": 1
+        }
+    ],
+    "pageTotal": 2
+}
